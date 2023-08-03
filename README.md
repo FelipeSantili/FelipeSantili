@@ -1,4 +1,4 @@
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Hello, I'm César! 👋
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Hello, I'm Felipe! 👋
 - Systems Analysis student
 - Focused on web devlopment
 <div>
@@ -53,7 +53,3 @@
 </div>
 </div>
 <hr>
-<div align="center">
-    <img width="49%" height="196px" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&icon_color=aa6600&theme=transparent&title_color=aa6600" alt="" />
-    <img width="43.3%"height="190px" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&title_color=aa6600" alt="" />
-</div>

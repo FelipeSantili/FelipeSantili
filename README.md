@@ -37,9 +37,6 @@
 <h4>Interest stacks:</h4>
 <div>
 <p>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass&logoColor=fefefa" alt="SASS"/>&nbsp;
-  </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=fefefa" alt="JavaScript"/>&nbsp;
   </a>

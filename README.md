@@ -32,6 +32,9 @@
   <a href="https://react.dev/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=fefefa" alt="react"/>&nbsp;
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=node.js&logoColor=fefefa" alt="CSharp"/>&nbsp;
+  </a>
 </p>
 </div>
 <h4>Interest stacks:</h4>

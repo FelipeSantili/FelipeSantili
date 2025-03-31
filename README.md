@@ -35,18 +35,13 @@
 <h4>Currently studying/next stacks:</h4>
 <div>
 <p>
-  <a href="https://www.php.net/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=fefefa" alt="PHP"/>&nbsp;
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=rxdb&logoColor=fefefa" alt="MySQL"/>&nbsp;
-  </a>
   <a href="https://react.dev/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=fefefa" alt="react"/>&nbsp;
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp&logoColor=fefefa" alt="CSharp"/>&nbsp;
+   <a href="https://www.djangoproject.com/" target="_blank">
+    <img align="center" src=" https://img.shields.io/badge/-django-05122A?style=flat&logo=django&logoColor=fefefa" alt="react"/>&nbsp;
   </a>
+ 
 </p>
 </div>
 <h4>Interest stacks:</h4>

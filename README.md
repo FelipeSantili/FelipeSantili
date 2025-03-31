@@ -9,10 +9,11 @@
   <a href="https://www.java.com/en/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle&logoColor=fefefa" alt="Java"/>&nbsp;
   </a>
-  <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c%2B%2B&logoColor=fefefa" alt="C"/>&nbsp;
+  <a href="https://learn.microsoft.com/en-us/cpp/c#-language/?view=msvc-170]" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=c%2B%2B&logoColor=fefefa" alt="CSharp"/>&nbsp;
   </a>
-</p><p>
+</p>
+<p>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Html5-05122A?style=flat&logo=html5&logoColor=fefefa" alt="HTML5"/>&nbsp;
   </a>

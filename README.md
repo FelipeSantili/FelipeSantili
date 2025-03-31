@@ -39,7 +39,7 @@
     <img align="center" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=fefefa" alt="react"/>&nbsp;
   </a>
    <a href="https://www.djangoproject.com/" target="_blank">
-    <img align="center" src=" https://img.shields.io/badge/-django-05122A?style=flat&logo=django&logoColor=fefefa" alt="react"/>&nbsp;
+    <img align="center" src="https://img.shields.io/badge/-django-05122A?style=flat&logo=django&logoColor=fefefa" alt="django"/>&nbsp;
   </a>
  
 </p>

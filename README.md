@@ -52,11 +52,11 @@
       <a href="https://react.dev/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=fefefa" alt="React"/>&nbsp;
       </a>
-      <a href="https://react.dev/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind_CSS"/>&nbsp;
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="Tailwind_CSS"/>&nbsp;
       </a>
-      <a href="https://react.dev/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-Vue-js-05122A?style=flat&logo=react&logoColor=fefefa" alt="Vue-js"/>&nbsp;
+      <a href="https://vuejs.org/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white" alt="Vue-js"/>&nbsp;
       </a>
     </p>
   </div>

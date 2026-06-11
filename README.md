@@ -1,64 +1,68 @@
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Hello, I'm Felipe! 👋
-- Systems Analysis student
-- Focused on web development
-<div>
-<img align="right" width="340" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
-<h4>Stacks:</h4>
-<div>
-    <p>
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=fefefa" alt="C#"/>
-      </a>
-      <a href="https://www.php.net/" target="_blank">
-        <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=fefefa" alt="PHP"/>
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=fefefa" alt="JavaScript"/>
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-        <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=fefefa" alt="HTML5"/>
-      </a>
-      <a href="https://www.css3.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=fefefa" alt="CSS3"/>
-      </a>
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=fefefa" alt="SQL"/>
-      </a>
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=fefefa" alt="Python"/>
-      </a>
-      <a href="https://www.java.com/en/" target="_blank">
-        <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=fefefa" alt="Java"/>
-      </a>
-      <a href="https://www.djangoproject.com/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-django-05122A?style=flat&logo=django&logoColor=fefefa" alt="Django"/>&nbsp;
-      </a>
-    </p>
-</div>
-<h4>Currently studying/next stacks:</h4>
-<div>
-    <p>
-      <a href="https://svelte.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte&logoColor=fefefa" alt="Svelte"/>
-      </a>
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=fefefa" alt="TypeScript"/>
-      </a>
-    </p>
-</div>
-<h4>Interest stacks:</h4>
-  <div>
-    <p>
-      <a href="https://react.dev/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=fefefa" alt="React"/>&nbsp;
-      </a>
-      <a href="https://tailwindcss.com/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="Tailwind_CSS"/>&nbsp;
-      </a>
-      <a href="https://vuejs.org/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white" alt="Vue-js"/>&nbsp;
-      </a>
-    </p>
-  </div>
-</div>
-<hr>
+### Hi, I'm Luis Felipe 👋
+
+**Software Engineer @ Wallstreet Docs** · Full-stack developer working across fintech and web.
+
+I build document-generation systems for structured financial products at WSD, with weekly client work in English and Spanish. Before that I developed healthcare modules and external-system integrations for a proprietary ERP serving a municipal public-health network. On the side, I ship full products end to end — e-commerce, a multi-tenant POS SaaS, and business sites.
+
+📍 Foz do Iguaçu, Brazil (UTC−3) · 💬 Portuguese / English / Spanish
+🔗 [LinkedIn](https://www.linkedin.com/in/luis-felipe-santili/) · ✉️ felipesantili@gmail.com
+
+---
+
+## 🚀 Featured Projects
+
+**[Laya — fashion e-commerce](https://layaclub.vercel.app/)**
+Storefront for a women's fashion brand: video hero, product grid, drawer navigation, wishlist, and an AI-generated avatar delivered to the customer after purchase.
+`Next.js` · `TypeScript` · `Vercel`
+
+**BurgBom — restaurant POS / ERP (SaaS)**
+Multi-tenant point-of-sale and management platform for food businesses: order capture, catalog management, tenant-scoped data isolation across pages and API routes, and WhatsApp Cloud API integration for automated order intake.
+`Next.js (App Router)` · `Prisma` · `NextAuth` · `Vercel`
+
+**[Capilare — head spa website](https://capilare-lyart.vercel.app/)**
+Marketing site for a head-spa studio with an interactive "build your own combo" feature that sends the selected services straight to WhatsApp.
+`React` · `Vercel`
+
+---
+
+## 💼 Experience
+
+**Software Engineer** — Wallstreet Docs (WSD) · *Oct 2025 – Present*
+Design, build, and test document-generation templates and automated workflows for structured financial products; supporting a major international client's migration to WSD's next-gen platform. Weekly client meetings in English and Spanish.
+
+**Full Stack Developer** — RP Smart Sistemas · *Jan 2024 – Sep 2025*
+Developed and maintained modules of a proprietary ERP focused on the municipal public-health vertical, and built integrations with external healthcare and government systems. `ASP.NET MVC` · `C#` · `SQL Server`
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=white)
+
+**Backend & APIs**
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat-square&logo=prisma&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3&logoColor=white)
+
+**Databases**
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=firebase&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=postman&logoColor=white)

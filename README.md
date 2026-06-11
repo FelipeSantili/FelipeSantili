@@ -15,7 +15,8 @@ I build document-generation systems for structured financial products at WSD, wi
 Storefront for a women's fashion brand: video hero, product grid, drawer navigation, wishlist, and an AI-generated avatar delivered to the customer after purchase.
 `Next.js` · `TypeScript` · `Vercel`
 
-**BurgBom — restaurant POS / ERP (SaaS)**
+****
+**[BurgBom — restaurant POS / ERP (SaaS)](https://burgbom.com.br)**
 Multi-tenant point-of-sale and management platform for food businesses: order capture, catalog management, tenant-scoped data isolation across pages and API routes, and WhatsApp Cloud API integration for automated order intake.
 `Next.js (App Router)` · `Prisma` · `NextAuth` · `Vercel`
 
